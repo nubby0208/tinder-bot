@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "outDir": "./built",
+    "allowJs": true,
+    "checkJs": false,
+    "target": "ESNext",
+    "moduleResolution": "Node",
+    "module": "commonjs",
+    "strict": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "paths": { "*": ["/src/types/*"] }
+  },
+  "include": ["src/*.ts"],
+  "ts-node": {
+    "esm": true,
+    "experimentalSpecifierResolution": true
+  }
+}

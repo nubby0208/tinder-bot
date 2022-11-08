@@ -1,0 +1,40 @@
+{
+	"USA": [
+		"New York",
+		"Chicago",
+		"Los Angeles",
+		"Houston",
+		"Phoenix",
+		"Philadelphia",
+		"San Antonio",
+		"San Diego",
+		"Dallas",
+		"San Jose"
+	],
+	"UK": [
+		"London"
+	],
+	"CANADA": [
+		"Toronto",
+		"Vancouver",
+		"Montreal"
+	],
+	"AUSTRALIA": [
+		"Sydney",
+		"Melbourne",
+		"Perth"
+	],
+	"New Zealans": [
+		"Aukland"
+	],
+	"EUROPE": [
+		"Amsterdam",
+		"Paris",
+		"Berlin",
+		"Madrid",
+		"Rome",
+		"Vienna",
+		"Hamburg",
+		"Munich"
+	]
+}
